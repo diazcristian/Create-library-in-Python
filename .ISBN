@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Feb 26 19:55:59 2018
-
-@author: Cristian
 """
 library = {'book1':{'ISBN':'1','TITLE':'ONE','AUTHOR':'FIRST','QUANTITY':'1'},
            'book2':{'ISBN':'2','TITLE':'TWO','AUTHOR':'SECOND','QUANTITY':'2'},
